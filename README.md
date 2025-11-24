@@ -2,7 +2,7 @@
 ## 🌟 Rust force 🌟 
 ## 🔍 Overview 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Frust-hacks-pro&psig=AOvVaw1DrV1rrr7KjazTYO9HO9_D&ust=1764092178043000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCMjYn9Gpi5EDFQAAAAAdAAAAABAL" width="850">
+  <img src="<img width="850" height="386" alt="image" src="https://github.com/user-attachments/assets/6a0936dc-8296-4206-8436-6eedfa498b50" />
   </p>
 
 

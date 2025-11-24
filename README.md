@@ -2,7 +2,8 @@
 ## 🌟 Rust force 🌟 
 ## 🔍 Overview 
 <p align="center">
-  <img src="<img width="850" height="386" alt="image" src="https://github.com/user-attachments/assets/6a0936dc-8296-4206-8436-6eedfa498b50" />
+  <img src="<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3afaded7-27c0-468f-afb1-5848a34b8526" />
+" width="850"> 
   </p>
 
 
@@ -32,3 +33,4 @@ Download the latest version of the tool by selecting your preferred Windows vers
 * **Storage:** 10 GB available space
 
 ### 🌟 Don’t forget to star the repo if you find it useful! ⭐
+https://i.ytimg.com/vi/P8THq87JrBI/maxresdefault.jpg

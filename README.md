@@ -3,7 +3,6 @@
 ## 🔍 Overview 
 <p align="center">
   <img src="<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3afaded7-27c0-468f-afb1-5848a34b8526" />
-" width="850"> 
   </p>
 
 

@@ -2,7 +2,8 @@
 ## 🌟 Rust force 🌟 
 ## 🔍 Overview 
 <p align="center">
-  <img src="<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ea5234dd-8d4a-4893-91d8-8c4c791fbbdc" />
+  <img src="<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/393b2d8f-001c-4b13-bc75-1e614fa4501b" />
+" />
 " width="850">
   </p>
 
